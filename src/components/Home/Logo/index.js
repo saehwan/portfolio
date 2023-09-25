@@ -44,6 +44,7 @@ const Logo = () => {
   }, [])
 
   return (
+    <>
     <div className="logo-container" ref={bgRef}>
       <img
         className="solid-logo"
@@ -73,6 +74,7 @@ const Logo = () => {
         </g>
       </svg>
     </div>
+    </>
   )
 }
 

@@ -7,7 +7,7 @@ import Logo from './Logo'
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = "aehwan".split("")
-    const jobArray = "Web Developer".split("")
+    const jobArray = "Nice to meet you!".split("")
     useEffect(() => {
         const idTimeOut = setTimeout(() => {
           setLetterClass('text-animate-hover')
@@ -33,10 +33,10 @@ const Home = () => {
                 <br />
                 <AnimatedLetters letterClass={letterClass}
                 strArray={jobArray}
-                idx={22}
+                idx={17}
                 />
                 </h1>
-                <h2>Frontend Developer / JavaScript expert</h2>
+                <h2>Louisiana State University / Computer Science Major</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <Logo/>
