@@ -42,9 +42,8 @@ const About = () => {
                     I have completed coursework in data structures, algorithms, and software design, which have helped me develop my analytical and problem-solving skills.    
                 </p>
                 <p>
-                    Although I may not have any personal projects or professional experience yet, I am a quick learner, and I am confident in my ability to apply what I've learned in my studies to real-world projects. 
+                    Although I may not have good professional experience yet, I am a quick learner, and I am confident in my ability to apply what I've learned in my studies to real-world projects. 
                 </p>
-                
                 <br></br>
                 <h2>
                     I am actively looking for a software developer / engineer position.
